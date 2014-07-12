@@ -1,0 +1,5 @@
+import System.Cmd
+
+main = do
+    system "stopwatchcolor.exe"
+    system "./a.out"
