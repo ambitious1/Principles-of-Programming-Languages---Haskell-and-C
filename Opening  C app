@@ -1,5 +1,8 @@
 import System.Cmd
 
 main = do
-    system "stopwatchcolor.exe"
+    
+    system "printexcercise1.py"
+    system "stopwatch.exe"
     system "./a.out"
+    
